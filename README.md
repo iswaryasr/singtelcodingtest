@@ -3,7 +3,7 @@ Source code for "TODO" MVC testing using Cucumber BDD and TestNG
 
 Steps to run the test suite:
 
-1) Download or clone the project to your local machine
+1) Download or clone the project from https://github.com/iswaryasr/singtelcodingtest/tree/master to your local machine
 2) Import the project using editors like Eclipse or Intellij from the downloaded path
 3) Once Maven successfully builds all the required jars from the dependency file pom.xml, run the class CucumberTestRunner.java 
 4) This will open the chrome browser automatically and execute the test cases
