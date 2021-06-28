@@ -1,0 +1,6 @@
+com\singtel\todo\pages\TodoPage.class
+com\singtel\todo\runner\CucumberTestRunner.class
+com\singtel\todo\utils\WebDriverUtils.class
+com\singtel\todo\utils\Constants.class
+com\singtel\todo\utils\PropertyUtils.class
+com\singtel\todo\steps\StepDefinitions.class

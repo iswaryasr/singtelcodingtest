@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="com.singtel.todo.runner.CucumberTestRunner">
+        <methods>
+          <include name="setupEnvironment"/>
+          <include name="tearDownClass"/>
+          <include name="scenarios"/>
+          <include name="scenario" invocation-numbers="4"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- com.singtel.todo.runner.CucumberTestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
