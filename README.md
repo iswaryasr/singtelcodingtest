@@ -1,5 +1,6 @@
 # singtelcodingtest
 Source code for "TODO" MVC testing using Cucumber BDD and TestNG
+Prerequisite: jdk 1.8 or Higher Version
 
 Steps to run the test suite:
 
